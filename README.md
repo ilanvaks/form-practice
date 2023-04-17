@@ -5,7 +5,7 @@ C-10 in class practice.
 ## Link
 [See Link](https://form-practice-iv.web.app/)
 
-![screen shot](./public/images/readme.png)
+[![screen shot](./public/images/readme.png)](https://form-practice-iv.web.app/)
 
 ...
 ## Covered In class 
